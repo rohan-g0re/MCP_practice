@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "weather":{
+      "command": "uv",
+      "args": [
+        "--directory",
+        "D:\\STUFF\\Projects\\MCP_Projects\\weather",
+        "run",
+        "weather.py"
+      ]
+    }
+  }
+}
+
+# API works for lat--> 4 decimal AND long  --> 3 or 4 decimal
+
+# runnning inpsector using: mcp dev weather.py
